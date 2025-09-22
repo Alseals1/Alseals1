@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Alandis Seals
+# 👋🏾 Hey, I'm Alandis Seals
 
 **Innovating, Exploring, and Building Real-World Solutions Through Code & Cloud.**
 
