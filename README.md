@@ -55,5 +55,5 @@
 
 ### 📈 GitHub Stats
 
-![Alandis's GitHub stats](https://github-readme-stats.vercel.app/api?username=alandisseals&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alandisseals&layout=compact&theme=radical)
+![Alandis's GitHub stats](https://github-readme-stats.vercel.app/api?username=alseals&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alseals&layout=compact&theme=radical)
