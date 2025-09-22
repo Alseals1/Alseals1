@@ -32,9 +32,18 @@
 
 ### 🏗 Projects
 
-- **[Fullstack 3-Tier Blog App (In Progress)]()**  
+- **[Fullstack 3-Tier Blog App (In Progress)](https://github.com/Alseals1/Blog)**  
   _React, Express, PostgreSQL, AWS Migration & Integration_  
   Building a fully deployed app with AWS services, CI/CD, and real-world cloud infrastructure.
+
+  ### 🔍 Selected Projects
+
+- **[URL Shortener](https://github.com/Alseals1/URLShortener)**  
+  _Serverless URL shortener using AWS Lambda, API Gateway, S3, and Terraform_  
+  A deployed solution that shortens long URLs using a custom short code.  
+  Infrastructure is managed as code with Terraform, making it reproducible and scalable.
+
+  **Tech:** AWS Lambda · API Gateway · Terraform · Python · AWS S3 · Serverless architecture
 
 ---
 
